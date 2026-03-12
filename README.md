@@ -13,9 +13,12 @@ pinned: false
 
 > AI-powered personalized learning using IRT algorithm + LangChain.
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![LangChain](https://img.shields.io/badge/LangChain-0.2+-green)
-![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-HuggingFace-blue?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/madhuchitikela/adaptive-learning-coach)
+[![Source Code](https://img.shields.io/badge/💻%20Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/MadhuChitikela/adaptive-learning-coach)
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-0.2+-green?style=flat-square)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-red?style=flat-square)
 
 ## 🎯 What It Does
 AI diagnoses your weak areas → generates adaptive quizzes
